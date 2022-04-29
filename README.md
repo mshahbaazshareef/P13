@@ -87,7 +87,7 @@ to run the application as docker container run this command
 
 Add the following environment variables to your circleci project settings -> environment variables:
 
-    HEROKU_APP_NAME is the name of your Heroku application (
-    HEROKU_API_KEY is your Heroku account API key. You can copy and paste it from Heroku’s account page.
+    - HEROKU_APP_NAME is the name of your Heroku application (
+    - HEROKU_API_KEY is your Heroku account API key. You can copy and paste it from Heroku’s account page.
 
 Now that you have added environment variables, you have everything set up on your CircleCI console for deployment to Heroku.

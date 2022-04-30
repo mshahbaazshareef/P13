@@ -1,1 +1,2 @@
-web: gunicorn oc_lettings_site.wsgi
+web: gunicorn --chdir oc_lettings_site oc_lettings_site.wsgi
+

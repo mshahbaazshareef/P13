@@ -1,4 +1,4 @@
-asgiref==3.5.0
+asgiref==3.4.1
 attrs==21.4.0
 dj-database-url==0.5.0
 Django==3.2.5

@@ -91,3 +91,7 @@ Add the following environment variables to your circleci project settings -> env
     - HEROKU_API_KEY is your Heroku account API key. You can copy and paste it from Heroku’s account page.
 
 Now that you have added environment variables, you have everything set up on your CircleCI console for deployment to Heroku.
+
+### Push to Dockerhub
+
+- Add  environment variables DOCKERHUB_USERNAME and DOCKERHUB_PASS to circleci environment variables
